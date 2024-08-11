@@ -19,6 +19,7 @@ A modern weather web application built with React.js and Vite. This app allows u
 - **Weather API**: API integration to provide up-to-date weather data.
 
 #Usage
+
 1.Enter City Name: Type the name of the city into the input field.
 
 2.Fetch Weather Data: Click the "Get Weather" button to retrieve weather information.
