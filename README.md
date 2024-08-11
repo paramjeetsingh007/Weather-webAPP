@@ -1,6 +1,6 @@
 # React + Vite
 
-T# Weather Web App
+# Weather Web App
 
 A modern weather web application built with React.js and Vite. This app allows users to enter a city name and view current weather details including temperature, wind speed, humidity, and weather conditions.
 
@@ -18,10 +18,12 @@ A modern weather web application built with React.js and Vite. This app allows u
 - **Vite**: Build tool for fast and efficient development.
 - **Weather API**: API integration to provide up-to-date weather data.
 
-Usage
-Enter City Name: Type the name of the city into the input field.
-Fetch Weather Data: Click the "Get Weather" button to retrieve weather information.
-View Results: See the current weather details including temperature, wind speed, humidity, and weather conditions.
+#Usage
+1.Enter City Name: Type the name of the city into the input field.
+
+2.Fetch Weather Data: Click the "Get Weather" button to retrieve weather information.
+
+3.View Results: See the current weather details including temperature, wind speed, humidity, and weather conditions.
 
 
 Currently, two official plugins are available:
